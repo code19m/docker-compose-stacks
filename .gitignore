@@ -2,3 +2,5 @@ sonarqube/postgre/**
 sonarqube/sonarqube/**
 
 **/.idea/**
+
+**/.vscode/**
